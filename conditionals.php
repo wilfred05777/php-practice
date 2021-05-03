@@ -7,6 +7,8 @@
     <title>Conditionals PHP</title>
 </head>
 <body>
+
+    <!-- source: https://laracasts.com/series/php-for-beginners/episodes/9?autoplay=true -->
     <h2>Task for the day</h2>
     <h3> Conditionals </h3>
     
