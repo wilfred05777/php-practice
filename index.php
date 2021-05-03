@@ -45,3 +45,12 @@ $person['class'] ='S rank';
 // unset($person['age']);
 
 require 'assosiativeArray.php';
+
+// booleans
+$task = [
+    'title' => 'Finish Homework', 
+    'due' => 'today',
+    'assigned_to' => 'Jeremiah', 
+    'completed' => false // if($completed) {}
+];
+require 'boolean.php';
