@@ -41,4 +41,7 @@ $person['class'] ='S rank';
 // var_dump($person);
 // die(var_dump($person));
 
+// remove or delete an item in array
+// unset($person['age']);
+
 require 'assosiativeArray.php';
