@@ -35,5 +35,10 @@ $person = [
     'career' => 'Web Developer',
    
 ];
+// push to an array
+$person['class'] ='S rank'; 
+
+// var_dump($person);
+// die(var_dump($person));
 
 require 'assosiativeArray.php';
